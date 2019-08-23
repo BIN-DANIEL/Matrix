@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "125931132973",
+    "firebase_url": "https://matrix-summer-daniel.firebaseio.com",
+    "project_id": "matrix-summer-daniel",
+    "storage_bucket": "matrix-summer-daniel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125931132973:android:fc283f8f673e4614",
+        "android_client_info": {
+          "package_name": "com.laioffer.matrix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125931132973-pa30s92scrf0qrbomtf4buma5uoja19d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.laioffer.matrix",
+            "certificate_hash": "b49e21048e555097e53d130c6b23e3ab171e5d68"
+          }
+        },
+        {
+          "client_id": "125931132973-5i1tlbala2ugdu3cnbjpncb8ba8mc0ot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmYWmjvgS3GQ9Uy-0DLIAe5N-T4KjTr1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125931132973-5i1tlbala2ugdu3cnbjpncb8ba8mc0ot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
